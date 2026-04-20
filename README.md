@@ -88,7 +88,7 @@ One-click reset to defaults.
 
 ## Export
 
-JSON file with: full transcript, every suggestion batch with meeting memory snapshot and latency at that moment, full chat history with first-token timings, all memory snapshots, and a telemetry block. API key excluded.
+JSON file with: full transcript, every suggestion batch with meeting memory snapshot and latency at that moment, full chat history with first-token timings, all memory snapshots, and a telemetry block.
 
 ---
 
